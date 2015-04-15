@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D2CAFF9B-2E99-4E43-9446-0CD89FA4C758</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D10A8A3A071C0F21EA3FD461C52140549B1CACFA</key>
+		<string>https://github.com/ShannonE/victorious-secret.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>random/random.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D10A8A3A071C0F21EA3FD461C52140549B1CACFA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ShannonE/victorious-secret.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D10A8A3A071C0F21EA3FD461C52140549B1CACFA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D10A8A3A071C0F21EA3FD461C52140549B1CACFA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>victorious-secret</string>
+		</dict>
+	</array>
+</dict>
+</plist>
