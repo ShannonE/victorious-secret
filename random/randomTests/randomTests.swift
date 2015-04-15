@@ -1,15 +1,15 @@
 //
-//  Hello_WorldTests.swift
-//  Hello WorldTests
+//  randomTests.swift
+//  randomTests
 //
-//  Created by Shannon Eckelkamp on 4/1/15.
+//  Created by Shannon Eckelkamp on 4/15/15.
 //  Copyright (c) 2015 Shannon Eckelkamp. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class Hello_WorldTests: XCTestCase {
+class randomTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
